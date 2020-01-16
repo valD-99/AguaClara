@@ -1,10 +1,10 @@
 # [Agua Clara](http://aguaclara.cornell.edu/)
 
-> AguaClara Cornell upholds and protects the fundamental human right to access safe drinking water. We are committed to the ongoing development of resilient, gravity-powered drinking water and wastewater treatment technologies. 
-
 [AguaClara Depository](https://github.com/AguaClara/String-Digester)
 
-[Subteam String Digester Depository](https://github.com/AguaClara/String-Digester)
+> AguaClara Cornell upholds and protects the fundamental human right to access safe drinking water. We are committed to the ongoing development of resilient, gravity-powered drinking water and wastewater treatment technologies. 
+
+[Wastewater Subteam String Digester Depository](https://github.com/AguaClara/String-Digester)
 
 > Developing a more efficient secondary and tertiary treatment process for wastewater
 
