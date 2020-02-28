@@ -8,7 +8,7 @@
 
 > Developing a more efficient secondary and tertiary treatment process for wastewater
 
-[Stacked Rapid Sand (StaRS) Filter Theory sub-team](https://github.com/AguaClara/filtration-theory)
+[Stacked Rapid Sand (StaRS) Filter Theory Subteam Depository](https://github.com/AguaClara/filtration-theory)
 
 > Understanding the physics of filtration and the failure mechanism in Stacked Rapid Sand Filters in order to model the performance of the filter in existing AguaClara Plants through observing the interactions between influent turbidity, PACl dosage, and floc size.
 
