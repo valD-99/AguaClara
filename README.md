@@ -12,7 +12,7 @@
 
 > Understanding the physics of filtration and the failure mechanism in Stacked Rapid Sand Filters in order to model the performance of the filter in existing AguaClara Plants through observing the interactions between influent turbidity, PACl dosage, and floc size.
 
-###[StaRS Mid-semester Spring 2020 Report](https://colab.research.google.com/drive/1Cng-G74j1DCCZy3ZduBcfbl5Bf_tvdpR#scrollTo=awle31N5ykbr)
+### [StaRS Mid-semester Spring 2020 Report](https://colab.research.google.com/drive/1Cng-G74j1DCCZy3ZduBcfbl5Bf_tvdpR#scrollTo=awle31N5ykbr)
 
 ### [String Digester F19 Symposium Presentation](https://docs.google.com/presentation/d/1LMSbHLg3PTJItD69sbLWWczQWCcAXdqQwPNHlMLV2QI/edit#slide=id.g346a079b2f_0_0)
 
